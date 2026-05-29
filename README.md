@@ -26,6 +26,10 @@ This project is a simple responsive landing page created using HTML and CSS.
 . style.css
 . README.md
 
+##Screenshots 
+Page   
+Page2
+
 **Outcome**
 
 This project helped in understanding:
