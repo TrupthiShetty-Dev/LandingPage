@@ -114,5 +114,4 @@ Simply open `index.html` in your browser or use the **Live Server** extension in
 
 **Trupthi Shetty**
 
-If you found this project useful, consider giving it a **star ⭐** on GitHub.
-Trupthi Shetty
+
